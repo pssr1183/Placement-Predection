@@ -71,7 +71,8 @@ python app.py
 If everything goes well, you should  be able to see the predcition on the HTML page!
 
 ## Authors
-Devansh Mistry - [Linkedin](https://linkedin.com/in/devansh-vinodkumar-mistry-9bb2611aa/)
+Team 405 found
+
 
 ## If you like this project, please do give the star. If you have any suggestions or issues, please drop me a message.
 
